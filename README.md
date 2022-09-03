@@ -11,7 +11,7 @@ Outside of work, I also...
 - 🎦 I'm currently watching: [Deep Learning](!https://www.youtube.com/playlist?list=PLkRLdi-c79HKEWoi4oryj-Cx-e47y_NcM).
 - 📚 I'm currently reading: [Machine Learning Design Patterns](!https://www.oreilly.com/library/view/machine-learning-design/9781098115777).
 - 👯 Looking to collaborate on projects to implement production semantic / visual search and recommender systems using modern techniques.
-</br>
+
 
 ### 📝 Recent Writing
 - [Terraform: Provision Azure Data Platform with IaC](!https://natworkeffects.medium.com/terraform-provision-azure-data-platform-with-iac-28cfddac0234) - Apr 23, 2022
