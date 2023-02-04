@@ -3,13 +3,13 @@
 
 📊 📈 I design, engineer, and operate modern data analytics and machine learning  platforms on the cloud. 
 
-Currently, I'm a [consultant](https://www.linkedin.com/in/nathancheng-data) at Rackspace Technology helping customers become more data-driven, turning the ideas that provide business value from conception to production.
+Currently, I'm a [consultant](https://www.linkedin.com/in/nathancheng-data) at [Rackspace Technology](https://www.rackspace.com) helping customers become more data-driven, turning the ideas that provide business value from conception to production.
 
 Outside of work, I also... 
 - 🔭 Research and explore the latest data engineering and machine learning design patterns.
 - 📝 [Write](https://natworkeffects.medium.com) about data analytics / ML systems to share knowledge with the community of data nerds.
-- 🎦 I'm currently watching: [Deep Learning](https://www.youtube.com/playlist?list=PLkRLdi-c79HKEWoi4oryj-Cx-e47y_NcM).
-- 📚 I'm currently reading: [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777).
+- 🎦 I'm currently watching: [Mining Massive Datasets](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV).
+- 📚 I'm currently reading: [Personalizing Explainable Recommendations with Bandits](https://dl.acm.org/doi/10.1145/3240323.3240354).
 - 👯 Looking to collaborate on projects to implement production semantic / visual search and recommender systems using modern techniques.
 
 
