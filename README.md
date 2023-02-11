@@ -19,5 +19,4 @@ Outside of work, I also...
 - [Deploy FastAPI on Azure with Github Actions](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3) - Aug 7, 2021
 - [Minimum Viable Streaming Dashboard in Power BI: Part 3](https://towardsdatascience.com/minimum-viable-streaming-dashboard-in-power-bi-part-3-9d0b29f4f6a2) - Apr 11, 2021
 - [Minimum Viable Streaming Dashboard in Power BI: Part 2](https://towardsdatascience.com/minimum-viable-streaming-dashboard-in-power-bi-part-2-b902cd25c8) - Mar 29, 2021
-- [Minimum Viable Streaming Dashboard in Power BI: Part 1](https://towardsdatascience.com/minimum-viable-streaming-dashboard-in-power-bi-part-1-56e00a82c22f) - Jan 31, 2021
 
