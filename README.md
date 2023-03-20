@@ -19,5 +19,4 @@ Outside of work, I also...
 - [Terraform: Provision Azure Data Platform with IaC](https://natworkeffects.medium.com/terraform-provision-azure-data-platform-with-iac-28cfddac0234) - Apr 23, 2022
 - [Deploy FastAPI on Azure with Github Actions](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3) - Aug 7, 2021
 - [Minimum Viable Streaming Dashboard in Power BI: Part 3](https://towardsdatascience.com/minimum-viable-streaming-dashboard-in-power-bi-part-3-9d0b29f4f6a2) - Apr 11, 2021
-- [Minimum Viable Streaming Dashboard in Power BI: Part 2](https://towardsdatascience.com/minimum-viable-streaming-dashboard-in-power-bi-part-2-b902cd25c8) - Mar 29, 2021
 
