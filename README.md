@@ -14,6 +14,7 @@ Outside of work, I also...
 
 
 ### 📝 Recent Writing
+- [The Hierarchy of ML tooling on the Public Cloud](https://natworkeffects.com/posts/hierarchy-of-ml-services-on-public-cloud/#1-ml-services-on-the-public-cloud) - Mar 13, 2023
 - [Multi-Stage Approach to Building Recommender Systems](https://natworkeffects.com/posts/multi-stage-approach-to-building-recommender-systems/) - Feb 10, 2023
 - [Terraform: Provision Azure Data Platform with IaC](https://natworkeffects.medium.com/terraform-provision-azure-data-platform-with-iac-28cfddac0234) - Apr 23, 2022
 - [Deploy FastAPI on Azure with Github Actions](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3) - Aug 7, 2021
