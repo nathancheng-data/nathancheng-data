@@ -3,7 +3,7 @@
 
 📊 📈 I design, engineer, and operate modern Data and platforms on the cloud. 
 
-Currently, I'm a [consultant](https://www.linkedin.com/in/nathancheng-data) at [Rackspace Technology](https://www.rackspace.com) creating change by helping customers achieve their Data and AI initiatives, turning the ideas that provide business value from conception to production.
+Currently, I'm a consultant at [Rackspace Technology](https://www.rackspace.com) creating change by helping customers achieve their Data and AI initiatives, turning the ideas that provide business value from conception to production.
 
 ---
 Outside of work, I also... 
