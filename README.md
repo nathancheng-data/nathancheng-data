@@ -9,7 +9,7 @@ Currently, I'm a consultant at [Rackspace Technology](https://www.rackspace.com)
 Outside of work, I also... 
 - 🔭 Research and explore the latest data engineering and machine learning design patterns.
 - 📝 [Write](https://nathancheng-data.medium.com) about Data and AI systems to share knowledge with the fellow community of data nerds.
-- 🎦 [Create video explainers](https://www.youtube.com/channel/UC20uWyMd7SaHw-VLl1UgFbQ) about Data and AI tech.
+- 🎦 [Create video explainers](https://www.youtube.com/@nathancheng-data) about Data and AI tech.
 
 ___
 As for work experience, I have played different roles on a data team ranging from data analyst, data engineer, platform infrastructure, and DevOps engineer. You can connect with me on [LinkedIn](https://www.linkedin.com/in/nathancheng-data).
