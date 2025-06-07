@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm Nathan Cheng
 </br>
 
-📊 📈 I design, engineer, and operate modern Data and AI platforms on the cloud. 
+📊 📈 I design, build, and operate modern Data and AI platforms on the cloud. 
 
 Currently, I'm a consultant at [Rackspace Technology](https://www.rackspace.com) creating change by helping customers achieve their Data and AI initiatives, turning the ideas that provide business value from conception to production.
 
 ---
 Outside of work, I also... 
 - 🔭 Research and explore the latest data engineering and machine learning design patterns.
-- 📝 [Write](https://natworkeffects.com) about Data and AI systems to share knowledge with the fellow community of data nerds.
+- 📝 [Write](https://nathancheng-data.medium.com) about Data and AI systems to share knowledge with the fellow community of data nerds.
 - 🎦 [Create video explainers](https://www.youtube.com/channel/UC20uWyMd7SaHw-VLl1UgFbQ) about Data and AI tech.
 
 ___
